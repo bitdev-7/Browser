@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/browser.png</file>
+        <file>res/connect.png</file>
+        <file>res/download.png</file>
+        <file>res/monitor.png</file>
+        <file>res/refresh.png</file>
+        <file>res/upload.png</file>
+        <file>res/host.png</file>
+        <file>res/ip.png</file>
+        <file>res/logo.png</file>
+        <file>res/drive.png</file>
+        <file>res/file.png</file>
+        <file>res/folder.png</file>
+    </qresource>
+</RCC>
